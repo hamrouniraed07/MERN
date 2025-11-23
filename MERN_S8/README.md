@@ -33,7 +33,7 @@ MERN_S8/
 
 **📦 Installation**
 ```bash
-# Aucune dépendance externe (intégré à React)
+# Aucune dépendance externe 
 ```
 
 **✅ Avantages**
