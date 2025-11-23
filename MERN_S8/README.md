@@ -19,7 +19,7 @@ Ce projet compare **3 solutions différentes** de gestion d'état global en Reac
 
 ```
 MERN_S8/
-├── README.md (ce fichier)
+├── README.md 
 ├── rick-morty-context/     # Version 1: React Context API
 ├── rick-morty-redux/       # Version 2: Redux Toolkit
 └── rick-morty-zustand/     # Version 3: Zustand
